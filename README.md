@@ -2,6 +2,7 @@
 ## Weather Analytics Dashboard (Power BI)
 
 This project demonstrates the development of a real-time weather analytics dashboard in **Microsoft Power BI**, covering the complete data pipeline from API extraction to interactive visualization.
+![Weather Analytics Dashboard](https://github.com/shivani-vishwakarmaa/Real-Time-Weather-Analytics-Dashboard/blob/main/Real-Time%20Weather%20Analytics%20%26%20Correlation%20Dashboard.png)
 
 ---
 
